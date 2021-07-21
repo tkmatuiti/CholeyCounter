@@ -1,6 +1,7 @@
 # chorey_counter
 
-A new Flutter application.
+Choleeeyyyyyyyy!!
+the app Sounds'choley',when you get a point.
 
 ## Getting Started
 
